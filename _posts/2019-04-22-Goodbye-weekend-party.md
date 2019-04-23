@@ -62,7 +62,7 @@ Because the organization of this weekend (including food and drinks) is quite ex
 Also, if you want to make sure that we don't forget you, consider bringing a nice/crazy/silly picture of yourself and put it in our 'friendship book' during the weekend.
 
 ### And now?
-*	[_Please fill in our form **before the 29th of April** and arrange your accommodation with the camping_](https://forms.gle/h9zDDoeE19RHqhAh8){:target="_blank"}
+*	[_Please fill in our form **before the 29th of April** so the camping can get in contact with you for the reservation_](https://forms.gle/h9zDDoeE19RHqhAh8){:target="_blank"}`todo: what do we want whit this?`
 *	Which songs bring you on the dance floor? [Add them to our playlist!!](https://open.spotify.com/user/hanna.buschke/playlist/3QwaXndE7ivk3L5MsgwwOY?si=U0TMqq0dTZqC1UrjFLJNxw)
 *	Do you have any other questions? You can contact us or our good friend Huib, who will be our personal 'Sherif' that weekend, helping us here and there (vanveen.huib@gmail.com) 
 *   And make sure to practice  your dance moves:
