@@ -20,7 +20,7 @@ We would like to organize a **potluck dinner** around 7.30pm.
 That means everybody brings a bit of food and drinks (salads, bread, dips, etc.) to share with each other. Depending on the weather we can do a pick-nick or eat in our common room. 
 
 #### Saturday:
-With regards to breakfast and lunch, we will buy simple food that you can take yourself from the kitchen. We will include: Coffee, tea, milk, juice, bread, muesli, yoghurt, cheese, butter, jam, Nutella, hagelslag, vegetarian spread. If you want anything else (e.g. fruit, other drinks during the day, etc.) or have a specific diet please understand that we cannot take everything into account with so many people and take it yourself.
+With regards to breakfast and lunch, we will buy simple food that you can take yourself from the kitchen. We will include: Coffee, tea, milk, juice, bread, muesli, yoghurt, cheese, butter, jam, Nutella, hagelslag, vegetarian spread. If you want anything else (e.g. fruit, other drinks during the day, etc.) or have a specific diet please understand that we cannot take everything into account with so many people.
 
 In terms of activities, **just enjoy your day!** You can do whatever you feel like, play some games, talk to the many horses around, go for a run/walk/hike in the beautiful Veluwezoom, have a coffee at a cafe, or just chill in the sun. We'll also bring ‘Wikinger Schach’, a Slack-line and games and put them in the common room for everybody. Of course, you can also start planning your visit to Sierra Leone at our 'info stand' 🙂 
 
@@ -45,24 +45,24 @@ A SPAR supermarket is within walking distance from the camping grounds.
 
 If you have any questions about the location, please check the information provided on the [camping website](https://www.campingboszicht.nl/) 
 
-#### What to bring?
+### What to bring?
 *	Camping materials
 *	Pick-nick blanket
 *	Food to share at dinner on Friday and any other specific food or drinks 
 *	Plates, cups and cutlery for breakfast and lunch
 *	Hiking or running shoes 
 *	You know we love to dance, so don't forget your dancing shoes and outfit
-*	games, instruments, magic tricks- anything that you like to bring to enjoy a nice time together
+*	Games, instruments, magic tricks- anything that you like to bring to enjoy a nice time together
 
 ### Presents?
 We do not expect you to stress out to find the perfect present for us, just so that we have to store it in a dusty basement for the coming 3 years, because we have no space in our suitcase to take it along.
 
-Because the organization of this weekend (including food and drinks) is quite expensive a financial contribution would be most appreciated (expected!!) present  😉 
+Because the organization of this weekend (including food and drinks) is quite expensive a financial contribution would be most appreciated (expected!! 😉) present.
 
 Also, if you want to make sure that we don't forget you, consider bringing a nice/crazy/silly picture of yourself and put it in our 'friendship book' during the weekend.
 
 ### And now?
-*	Please fill in our form and arrange your accomodation with the camping `todo: add link to form`
+*	_Please fill in our form and arrange your accomodation with the camping_`todo: add link to form and deadline`
 *	Which songs bring you on the dance floor? [Add them to our playlist!!](https://open.spotify.com/user/hanna.buschke/playlist/3QwaXndE7ivk3L5MsgwwOY?si=U0TMqq0dTZqC1UrjFLJNxw)
 *	Do you have any other questions? You can contact us or our good friend Huib, who will be our personal 'Sherif' that weekend, helping us here and there (vanveen.huib@gmail.com) 
 
