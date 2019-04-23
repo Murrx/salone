@@ -3,7 +3,7 @@ author: Hanna Buschke & Robin Altena
 layout: post
 title:  "Goodbye weekend & party"
 ---
-`TODO: Foto?Boszicht? camping picture of us in wales?dancing?`
+![Veluwezoom](../../../assets/veluwezoom.jpeg)
 
 ### What is the plan?
 We simply want to have a fun and cozy weekend with our friends and family before we leave! That is why it is so essential you come 😉 

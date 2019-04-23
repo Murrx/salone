@@ -3,10 +3,8 @@ author: Hanna Buschke
 layout: post
 title:  "Serra what???... Sierra Leone!"
 ---
-
-
-
-![Sierra Leone flag](../assets/Flag_of_Sierra_Leone.svg)
+    
+<img src="/salone/assets/Flag_of_Sierra_Leone.svg" height="200" alt="Sierra Leone flag" />
 
 So that you at least get some vague impression where we go to and how beautiful Sierra Leone looks like we recommend you to check out these videos:
 

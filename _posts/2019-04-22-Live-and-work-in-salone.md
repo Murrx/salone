@@ -4,6 +4,8 @@ layout: post
 title:  "We're going to Makeni!"
 ---
 
+<img src="../../../assets/map_sierra_leone.png" height="400" alt="Map Siera Leone" />
+
 Hanna
 ---
 Between 2008-2014 I had been used to moving places in average once a year and to travel a lot. After I have been living  more than 3 years in beautiful Amersfoort (longer than I had ever thought) and had been volunteering on Lesbos, Greece last year I increasingly had this tingling feeling again that I want to go abroad (much further than the Netherlands ;-) ) and explore something new. Since my studies I always had the ambition to live and work in a foreign country in the South for a few years. Now with Rob, I also found the perfect partner in order to dare taking this step. We are both convinced it would be great to share such an experience and go on an adventure together.
@@ -24,6 +26,7 @@ While thematically my interest had been always more about migration, I am very c
 Many people have either never heard of the country, or only think of poverty,  the civil war and Ebola when they hear the name. And honestly I didn’t know a lot about it as well. But I think this makes it even more exciting and valuable to get to know the country - with its people, culture, history, beautiful and challenging sides -as good as possible.
 And I hope I will be able to convey some of it through this blog- maybe making you curious to explore it yourself!
 
+![Makeni](../../../assets/makeni.jpg)
 
 Robin
 ---

@@ -5,6 +5,8 @@
 layout: home
 ---
 
+![Hanna and Robin](assets/hanna_robin.jpeg)
+
 As you may already know we will be moving to Makeni, Sierra Leone in September of this year.
 Hanna will be working for the local organization SILNORF via the
 German organization 'Brot für die Welt'
