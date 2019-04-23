@@ -4,4 +4,10 @@
 
 layout: home
 ---
-lets see what happens when I write some nice text to this page?[    ]
+
+As you may already know we will be moving to Makeni, Sierra Leone in September of this year.
+Hanna will be working for the local organization SILNORF via the
+German organization 'Brot für die Welt'
+and Robin is in the lucky position to be her accompanying partner. 
+
+Via this blog we will keep you updated on our experiences
